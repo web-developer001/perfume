@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1250px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.divone {
+  width: 1200px;
+  height: 500px;
+  background-color: rgb(238, 215, 187);
+  margin-top: 70px;
+  box-shadow: 8px 11px 17px -12px rgba(34, 60, 80, 0.6);
+  padding-top: 1px;
+}
+.divtwo {
+  width: 270px;
+  height: 350px;
+  background-color: white;
+  margin-top: -355px;
+  margin-left: 580px;
+  padding-left: 15px;
+}
+.imges {
+  width: 270px;
+  height: 350px;
+  margin-top:70px ;
+  margin-left: 310px;
+}
+.textone{
+   color: rgb(158, 151, 151);
+   text-transform: uppercase;
+   font-family:sans-serif;
+   letter-spacing: 5px;
+   padding-top: 15px;
+}
+.sarlovha{
+   text-transform:capitalize;
+   margin-right: 25px;
+   font-size:30px ;
+}
+.texttwo{
+   color: rgb(77, 70, 70);
+}
+.sarlovhaone{
+   color: rgb(26, 92, 26);
+   font-family: 'Libre Baskerville', serif;
+   margin-top: 20px;
+}
+.onediv{
+   display: inline-block;
+}
+.textthree{
+   color: rgb(77, 70, 70);
+   padding-left: 10px;
+   text-decoration: line-through rgb(77, 70, 70) solid 1px;
+}
+button{
+   color: white;
+   width: 235px;
+   height: 40px;
+   border-radius: 5px;
+   border-color: rgb(26, 92, 26);
+   background-color: rgb(26, 92, 26);
+   font-family:sans-serif ;
+   font-weight: 500;
+   font-size: 14px;
+}

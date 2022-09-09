@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1400px;
+  /* height: 900px; */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.gelik:hover {
+   transition: 1.5s;
+  
+   width: 200px;
+   margin: 300px 500px;
+ box-shadow:200px 200px 10px 0px red,-200px -200px 10px 0px blue,-200px 200px 10px 0px gray,200px -200px 10px rgb(54, 230, 11), 200px 0px 10px 0px rgb(255, 0, 157),0px 200px 10px 0px orange,-200px 0px 10px 0px black,0px -200px 10px 0px yellow 
+ 
+}
+.gelik{
+   width: 200px;
+  margin: 300px 500px;
+}
+
